@@ -1,0 +1,22 @@
+{
+  "name": "es6-simple-kanban-example",
+  "version": "0.1.0",
+  "description": "A simple kanban example.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyusung <happy.kyusung@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^5.0.12",
+    "babel-loader": "^5.0.0",
+    "css-loader": "^0.10.1",
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4",
+    "style-loader": "^0.10.1",
+    "webpack": "^1.8.4",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
